@@ -1,13 +1,17 @@
 
 
 public class ReverseWithRecursion {
-
+	//starting point of program
 	public static void main(String[] args) {
+		//string to reverse
 		String str = "Hello";
+
+		//print results of recursive method
 		System.out.println(reverse(str, 0));
 	}
 	
-	//Ewwwwww, Static method. 
+	//Ewwwwww, Static method. Avoid using these.
+	//Reverses using a stringBuilder to append chars starting with the last working backwards
 	public static StringBuilder reverse(String str, int position) {
 		
 		//At the end of recursion?
