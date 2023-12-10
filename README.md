@@ -8,3 +8,8 @@ He said, "Pause and go solve it."
 So I paused, and solved it... in Java.
 
 Thank you for getting me to stop doom scrolling and do something productive.
+
+# Code Reuse
+
+Feel free to reuse this code as you see fit. 
+I have 0 problems with you putting your name on it. 
